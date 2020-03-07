@@ -33,3 +33,7 @@ Simply copy all the files in the folder "Extensions" of Inkscape
 
 - Step 4) Play!
 
+#remark
+Make sure to set the homing propery, else you might get an error (and freeze of inkscape).
+
+![alt text](https://github.com/MakerSpaceLeiden/raster2gcode/blob/master/error.png)
